@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Assignment5
+{
+    internal interface IMoveable
+    {
+        void MoveForward();
+        void MoveBackward();
+    }
+}
