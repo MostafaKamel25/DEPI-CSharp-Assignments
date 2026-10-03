@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Assignment6.Part01
+namespace Project01
 {
     internal class Point3D : IComparable, ICloneable
     {

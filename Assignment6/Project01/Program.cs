@@ -1,4 +1,4 @@
-﻿namespace Assignment6.Part01
+﻿namespace Project01
 {
     internal class Program
     {
@@ -37,7 +37,7 @@
             if (P1 == P2)
                 Console.WriteLine("P1 and P2 are equal");
             else
-                Console.WriteLine("P1 and P2 are NOT equal"); // Always not equal
+                Console.WriteLine("P1 and P2 are NOT equal");
 
 
             // 5
@@ -69,5 +69,5 @@
             Console.WriteLine(P3);
         }
     }
-    
+
 }
