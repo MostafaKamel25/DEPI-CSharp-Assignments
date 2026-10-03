@@ -3,5 +3,6 @@
   <Project Path="../Assignment3/Assignment3.csproj" Id="67f1c2bb-7e24-45a0-870f-8715996a60c5" />
   <Project Path="../Assignment4/Assignment4.csproj" Id="d54ee0be-2c4a-46a6-8921-9e4d351a6e5c" />
   <Project Path="../Assignment5/Assignment5.csproj" Id="f6ef646b-8d30-45ae-8c3c-4f09e60b6160" />
+  <Project Path="../Assignment6/Assignment6.Part01/Assignment6.Part01.csproj" Id="bb960aa3-0f6a-4550-b0dd-0671d082b1ed" />
   <Project Path="Assignment1.csproj" />
 </Solution>
